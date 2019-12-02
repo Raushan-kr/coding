@@ -1,0 +1,27 @@
+.body{
+	background-color: #ccc;
+}
+
+
+.help{
+	text-align: top;
+	text-decoration: none;
+}
+
+.table {
+	border:1px solid red;
+background-color: lightblue;
+color: blue;
+text-decoration: none;
+
+width: 75%;
+margin-left: 100px;
+}
+.framm{
+text-align: center;
+text-decoration:none;
+}
+.new{
+	padding:1px;
+	margin: 3px;
+}

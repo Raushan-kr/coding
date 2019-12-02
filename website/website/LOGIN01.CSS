@@ -1,0 +1,24 @@
+body{
+	background: #cc;
+
+}
+form{
+	background: #ccc;
+	text-align: center;
+	border: 1px solid blue ;
+	width: 50%;
+	margin-left: 300px;
+}
+.sup{
+	background: #black;
+    color: #white;
+    font-size: 15px;
+    cursor: pointer;
+    width: 20%;
+
+}
+.first{
+	background: #blue;
+	cursor: crosshair;
+	width: 5%
+}

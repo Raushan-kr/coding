@@ -1,0 +1,22 @@
+body{
+	background-color:black;
+	color:white;
+}
+img{
+	margin-left: 200px: 
+}
+
+form{
+	color: black;
+text-align:center;
+font-size:15px;
+margin-left:200px;
+margin-right:200px;
+margin-top:50px;
+border:1px solid white ;
+background:#ccc;
+}
+.signupbtn {
+  float: center;
+width: 20%;}	
+
